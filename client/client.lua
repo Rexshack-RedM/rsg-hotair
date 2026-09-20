@@ -1,3 +1,5 @@
+lib.locale()
+
 local RSGCore = exports['rsg-core']:GetCoreObject()
 
 local hiredBalloon = nil      -- owner's balloon entity

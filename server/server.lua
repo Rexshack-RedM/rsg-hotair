@@ -1,3 +1,5 @@
+lib.locale()
+
 local RSGCore = exports['rsg-core']:GetCoreObject()
 
 -- activeBalloons[src] = { netId = number, dock = number, seats = { [1..4] = src or nil } }

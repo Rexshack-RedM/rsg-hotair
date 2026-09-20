@@ -37,7 +37,7 @@ Config.Docks = {
     {
         label = 'Valentine Meadow',
         npcModel = 'A_M_M_RANCHER_01',
-        npcCoords = vector4(-151.93, 669.44, 116.37, 187.32),
+        npcCoords = vector4(-151.93, 669.44, 115.37, 187.32),
         spawnCoords = vector3(-148.78, 664.59, 115.26),
         spawnHeading = 45.0,
         blip = { sprite = -1258576797, scale = 0.2, name = 'Balloon Hire' },
